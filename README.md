@@ -3,9 +3,9 @@
 > Vue ShopMall 
 ##项目截图
 
-![Alt text](/screenShot/mall1.jpg)
+![Alt text](./screenShot/mall1.jpg)
 
-![Alt text](/screenShot/mall2.jpg)
+![Alt text](./screenShot/mall2.jpg)
 ## 安装启动步骤
 
 ``` 
